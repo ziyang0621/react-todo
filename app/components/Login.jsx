@@ -1,6 +1,6 @@
 import React from 'react';
 import * as Redux from 'react-redux';
-import *as actions from 'actions';
+import * as actions from 'actions';
 
 export var Login = React.createClass({
   onLogin() {
